@@ -11,7 +11,7 @@ h1
     text-align: center;
     margin: 250px auto;
     text-transform: uppercase;
-    background: url(/img/image.jpg);
+    background: url(./img/image.jpg);
     background-size: cover;
     background-attachment: fixed;
     -webkit-background-clip: text;
